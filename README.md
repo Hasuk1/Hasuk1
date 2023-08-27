@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### **My name is Mikhail**
+### *Fullstack-developer*
+
+I am currently studying at Programming School 21 (SBER). Here you can find personal as well as school projects.
+
+- 💬 Telegram: @Hassuk1
+- 💬 Rocket.Chat: @perlabru
+
 <!--
 **Hasuk1/Hasuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
