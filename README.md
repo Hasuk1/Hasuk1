@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### **My name is Mikhail**
-### *Fullstack-developer*
+<!--### *Fullstack-developer*-->
 
-<!--I am currently studying at Programming School 21 (SBER). Here you can find personal as well as school projects.-->
+I am currently studying at Programming School 21 (SBER). Here you can find personal as well as school projects.
 
 - 💬 Telegram: @Hassuk1
 - 💬 Rocket.Chat: @perlabru
