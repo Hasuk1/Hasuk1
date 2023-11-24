@@ -7,7 +7,7 @@ I am currently studying at Programming School 21 (SBER). Here you can find perso
 
 🎉 Completed tasks of School 21.
 
-- [School 21]([https://github.com/Hasuk1/base_cmd_SQL/tree/main/src/Bootcamp](https://github.com/stars/Hasuk1/lists/school-21))
+- [School 21](https://github.com/stars/Hasuk1/lists/school-21)
 
 🎉 Completed pet-project.
 
