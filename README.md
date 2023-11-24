@@ -14,7 +14,7 @@ I am currently studying at Programming School 21 (SBER). Here you can find perso
 - [Simple Proxy Server](https://github.com/Hasuk1/Proxy-Server-with-logging-SQL-queries)
 
 📫 How to reach me:
-- 💬 Telegram: [Hassuk1](t.me/@Hassuk1)
+- 💬 Telegram: [Hassuk1](https://t.me/Hassuk1)
 - 📩 E-mail: misha.carpushov1@gmail.com
 - 🚀 Rocket.Chat: @perlabru
 
