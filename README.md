@@ -5,15 +5,15 @@
 
 I am currently studying at Programming School 21 (SBER). Here you can find personal as well as school projects.
 
-🎉 Completed tasks of School 21.
+🎉 Completed tasks of School 21:
 
 - [School 21](https://github.com/stars/Hasuk1/lists/school-21)
 
-🎉 Completed pet-project.
+👾 Completed pet-project:
 
 - [Simple Proxy Server](https://github.com/Hasuk1/Proxy-Server-with-logging-SQL-queries)
 
-
+📫 How to reach me:
 - 💬 Telegram: @Hassuk1
 - 💬 Rocket.Chat: @perlabru
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
