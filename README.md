@@ -13,6 +13,10 @@ I am currently studying at Programming School 21 (SBER). Here you can find perso
 
 - [Simple Proxy Server](https://github.com/Hasuk1/Proxy-Server-with-logging-SQL-queries)
 
+👨‍💻 Pet-project in process:
+
+- [Sync-Music-Chat](https://github.com/perla-ru/Sync-Music-Chat)
+
 📫 How to reach me:
 - 💬 Telegram: [Hassuk1](https://t.me/Hassuk1)
 - 📩 E-mail: misha.carpushov1@gmail.com
