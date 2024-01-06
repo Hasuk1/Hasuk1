@@ -41,9 +41,9 @@
 </div>
 <div id="my stat" align="justify">
     <h1><br><b>🔥 My stat:</b></h1>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D" height="100" alt="GitHub Streak" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hasuk1&layout=compact&show_icons=true&theme=panda" height="100" alt="other stat" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasuk1&layout=compact&theme=panda" height="100" alt="language" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D" height="80" alt="GitHub Streak" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hasuk1&layout=compact&show_icons=true&theme=panda" height="80" alt="other stat" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasuk1&layout=compact&theme=panda" height="80" alt="language" /></a>
 </div>
 <div id="my repos" align="justify">
     <h1><br><b>🔽 Check out my project 🔽</b></h1>
