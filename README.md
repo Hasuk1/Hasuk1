@@ -1,7 +1,5 @@
 <div id="paft" align="center">
     <img src="paft.gif" width=2000%/>
-</div>
-<div id="link" align="center">
     <a href="your-linkedin-URL">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
     </a>
