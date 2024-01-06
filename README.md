@@ -19,7 +19,7 @@
 </div>
 <div id="about" align="justify">
     <h1><b>👨‍💻 About me:</b></h1>
-    <h4>I am an aspiring full-stack software developer from RussiaKazan. I am currently studying at Programming School 21.  In myfree time I study GameDev, in particular Unreal Engine. Here you can find both personal and school projects.</h4>
+    <h4>I am an aspiring full-stack software developer from RussiaKazan. I am currently studying at Programming School 21 (@perlabru).  In myfree time I study GameDev, in particular Unreal Engine. Here you can find both personal and school projects.</h4>
 </div>
 <div id="stack" align="justify">
     <h1><br><b>⚙ Language & DevTools:</b></h1>
@@ -48,4 +48,3 @@
 <div id="my repos" align="justify">
     <h1><br><b>🔽 Check out my project 🔽</b></h1>
 </div>
-
