@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
-<div id="hello">
+<div id="hello" align="justify">
     <h1><b>Hi there, I'm Mikhail 🖐🏻</b></h1>
     <img src="./gif.gif" width=2000%//>
 </div>
