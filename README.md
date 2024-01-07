@@ -46,5 +46,5 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" /></a>
 </div>
 <div id="my repos" align="justify">
-    <h1><br><b>🔽 Check out my project 🔽</b></h1>
+    <h1><br><b>🔽 Check out my project.</b></h1>
 </div>
