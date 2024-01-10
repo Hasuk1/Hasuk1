@@ -28,7 +28,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"alt="C++" width="40" height="40"/>&nbsp;
     <img src="qt_logo.png"alt="QT" width="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"alt="Kotlin" width="40" height="40"/>&nbsp;
+    <a href="https://github.com/Hasuk1/Kotlin_bootcamp/tree/main"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"alt="Kotlin" width="40" height="40"/></a>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"alt="js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"alt="html" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"alt="css" width="40" height="40"/>&nbsp;
