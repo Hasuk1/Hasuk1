@@ -13,8 +13,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <div id="welcome" align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4BF7E2&random=true&width=435&lines=Oh+hello+there!!!" alt="Typing SVG" />
-        </a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4BF7E2&multiline=true&random=true&width=435&lines=%E2%88%92+%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2+%E2%80%A2+%E2%88%92%E2%80%A2%E2%88%92%E2%80%A2+%E2%80%A2%E2%88%92+%E2%88%92%E2%80%A2%E2%88%92+%E2%80%A2+%E2%80%A2%E2%80%A2+%E2%80%A2%E2%80%A2%E2%80%A2+%E2%80%A2%E2%88%92+%E2%80%A2%E2%88%92%E2%80%A2%E2%80%A2+%E2%80%A2%E2%80%A2+%E2%80%A2" alt="Typing SVG" /></a>
 </div>
 <div id="hello" align="justify">
     <h1><b>Hi there, I'm Mikhail 🖐🏻</b></h1>
