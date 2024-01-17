@@ -45,7 +45,7 @@
     <h1><br><b>🔥 My stat:</b></h1>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=hasuk1&layout=compact&show_icons=true&theme=panda" height="150" alt="other stat" /></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasuk1&layout=compact&theme=panda" height="150" alt="language" /></a><br>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" /></a>
 </div>
 <div id="my repos" align="justify">
     <h1><br><b>🔽 Check out my project.</b></h1>
