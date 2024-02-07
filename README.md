@@ -36,7 +36,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"alt="python" width="40" height="40"/>&nbsp;
     <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"alt="vim" width="40" height="40"/></a>&nbsp;
     <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"alt="docker" width="40" height="40"/></a>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"alt="gradle" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg"alt="gradle" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"alt="git" width="40" height="40"/>&nbsp;
     <a href="https://github.com/Hasuk1/School-21-SQL_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"alt="Posgersql" width="40" height="40"/></a>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg"alt="sqlite" width="40" height="40"/>
