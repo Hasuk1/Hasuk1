@@ -61,4 +61,6 @@
     <h1><br><b>🔽 Check out my project.</b></h1>
 </div>
 <div id="extra pins" align="justify">
-    <a href=https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="150"</a>
+    <a href=https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="150"/></a>
+    <a href=https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="150"/></a>
+</div>
