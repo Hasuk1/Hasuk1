@@ -33,19 +33,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg"width="40" height="40"/>&nbsp;
     <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"width="40" height="40"/></a>&nbsp;
     <a href="https://github.com/Hasuk1/School-21-SQL_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"width="40" height="40"/></a>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"width="40" height="40"/><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40"/>&nbsp;<br>
     <h2><b>👽 Alternative (Use it, but less often):</b></h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"width="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"width="40" height="40"/><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg"width="40" height="40"/>&nbsp;<br>
     <h2><b>👻 Additional (Rarely use):</b></h2>
     <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"width="40" height="40"/></a>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40"/>&nbsp;
