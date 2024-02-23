@@ -61,7 +61,7 @@
     <h1><br><b>🔽 Check out my projects.</b></h1>
 </div>
 <div id="extra pins" align="justify">
-    <a href=https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=kotlin_projects&theme=panda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=kotlin_projects&theme=panda" height="110"/></a>
-    <a href=https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=School-21-DevOps_branch&theme=panda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=School-21-DevOps_branch&theme=panda" height="110"/></a>
-    <a href=https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=School-21-SQL_branch&theme=panda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=School-21-SQL_branch&theme=panda" height="110"/></a>
+    <a href="https://github.com/Hasuk1/kotlin_projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=kotlin_projects&theme=panda" height="110"/></a>
+    <a href="https://github.com/Hasuk1/School-21-DevOps_branch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=School-21-DevOps_branch&theme=panda" height="110"/></a>
+    <a href="https://github.com/Hasuk1/School-21-SQL_branch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=School-21-SQL_branch&theme=panda" height="110"/></a>
 </div>
