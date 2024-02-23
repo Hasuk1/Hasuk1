@@ -58,7 +58,7 @@
     <a href="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150"/></a>
 </div>
 <div id="my repos" align="justify">
-    <h1><br><b>🔽 Check out my project.</b></h1>
+    <h1><br><b>🔽 Check out my projects.</b></h1>
 </div>
 <div id="extra pins" align="justify">
     <a href=https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=kotlin_projects&theme=panda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=kotlin_projects&theme=panda" height="110"/></a>
