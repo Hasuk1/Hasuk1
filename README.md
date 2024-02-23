@@ -53,13 +53,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"width="40" height="40"/>
 </div>
 <div id="my stat" align="justify">
-    <h1><br><b>🔥 My stat:</b></h1>
+    <h1><b>🔥 My stat:</b></h1>
     <a href="https://github-readme-stats.vercel.app/api?username=hasuk1&layout=compact&show_icons=true&theme=panda"><img src="https://github-readme-stats.vercel.app/api?username=hasuk1&layout=compact&show_icons=true&theme=panda" height="150"/></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hasuk1&layout=compact&theme=panda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasuk1&layout=compact&theme=panda" height="150"/></a><br>
     <a href="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D"><img src="https://streak-stats.demolab.com?user=Hasuk1&theme=panda&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150"/></a>
 </div>
 <div id="my repos" align="justify">
-    <h1><br><b>🔽 Check out my projects.</b></h1>
+    <h1><b>🔽 Check out my projects.</b></h1>
 </div>
 <div id="extra pins" align="justify">
     <a href="https://github.com/Hasuk1/kotlin_projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasuk1&repo=kotlin_projects&theme=panda" height="110"/></a>
