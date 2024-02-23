@@ -22,9 +22,9 @@
 <div id="about" align="justify">
     <h1><b>👨‍💻 About me:</b></h1>
     <h4>I am an aspiring full-stack software developer from Russia/Kazan. I am currently studying at Programming School 21 (@perlabru). In myfree time I study GameDev, in particular Unreal Engine. Here you can find both personal and school projects.</h4>
-</div>
+</div><br>
 <div id="stack" align="justify">
-    <h1><br><b>⚙ Language & DevTools</b></h1>
+    <h1><b>⚙ Language & DevTools</b></h1>
     <h2><b>🤖 Main (Most used):</b></h2>
     <a href="https://github.com/Hasuk1/Kotlin_bootcamp/tree/main"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"width="40" height="40"/></a>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg"width="40" height="40"/>&nbsp;
