@@ -22,7 +22,7 @@
 <div id="about" align="justify">
     <h1><b>👨‍💻 About me:</b></h1>
     <h4>I am an aspiring full-stack software developer from Russia/Kazan. I am currently studying at Programming School 21 (@perlabru). In myfree time I study GameDev, in particular Unreal Engine. Here you can find both personal and school projects.</h4>
-    <h3><a href="https://drive.google.com/file/d/1VIyPFUE_h43_Il8pA3Y-Yq3wzIJH3-DU/view?usp=sharing"target="_blank">My resume (EN)</a>            <a href="https://drive.google.com/file/d/1onTAN5rzuYnILfrJsxF0g-nGnK6YQJGs/view?usp=sharing"target="_blank">Мое резюме (RU)</a></h3>
+    <h3><a href="https://drive.google.com/file/d/1VIyPFUE_h43_Il8pA3Y-Yq3wzIJH3-DU/view?usp=sharing"target="_blank">My resume (EN)</a>      <a href="https://drive.google.com/file/d/1onTAN5rzuYnILfrJsxF0g-nGnK6YQJGs/view?usp=sharing"target="_blank">Мое резюме (RU)</a></h3>
 </div>
 <div id="stack" align="justify">
     <h1><b>⚙ Language & DevTools</b></h1>
