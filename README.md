@@ -24,7 +24,7 @@
     <h4>I am an aspiring full-stack software developer from Russia/Kazan. I am currently studying at Programming School 21 (@perlabru). In myfree time I study GameDev, in particular Unreal Engine. Here you can find both personal and school projects.</h4>
     <h3><a href="https://drive.google.com/file/d/1-mhlwvDP6lFbJU_p7vV3r-oFAqVKNiJ8/view?usp=sharing"target="_blank">My resume (EN)</a></h3><h3><a href="https://drive.google.com/file/d/16c8p-jt29CKlWbhElZBUtM-GPKFjem6Y/view?usp=sharing"target="_blank">Мое резюме (RU)</a></h3><br>
     <a href="https://leetcode.com/hassuk1/">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhassuk1&logo=leetcode&logoColor=yellow"/>;
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhassuk1&logo=leetcode&logoColor=yellow"/>
     </a>
 </div>
 <div id="stack" align="justify">
